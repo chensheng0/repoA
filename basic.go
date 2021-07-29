@@ -5,4 +5,6 @@ type Item struct {
 	Name string
 
 	Gender bool
+
+	Class int
 }
