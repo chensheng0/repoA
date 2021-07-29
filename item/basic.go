@@ -6,5 +6,5 @@ type Item struct {
 
 	Gender int
 
-	Class int
+	Nianji int
 }
